@@ -1,0 +1,28 @@
+name: John Astor
+favicon: null
+layout_spectrum: 0.5537447601091117
+typography_spectrum: 0.5362960046622902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6975121404975653
+  lightness: 0.7454717131331563
+  saturation: 0.13380322186276317
+  rhythmicContrast: 0.9354010259266943
+purpose: []
